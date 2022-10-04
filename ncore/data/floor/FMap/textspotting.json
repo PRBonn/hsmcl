@@ -1,0 +1,11 @@
+{
+    "detModelPath": "/home/nickybones/Code/YouBotMCL/ncore/data/text/DB_IC15_resnet18.onnx",
+    "recModelPath": "/home/nickybones/Code/YouBotMCL/ncore/data/text/crnn_cs.onnx",
+    "vocPath": "/home/nickybones/Code/YouBotMCL/ncore/data/text/alphabet_94.txt",
+    "height": 480,
+    "width": 640,
+    "binThresh": 0.3,
+    "polyThresh" : 0.5,
+    "maxCandidates" : 50,
+    "unclipRatio" : 2.0
+}

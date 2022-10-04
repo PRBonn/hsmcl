@@ -1,0 +1,1 @@
+add_library(NEGNINE NMCLEngine.cpp DataFrameLoader.cpp)

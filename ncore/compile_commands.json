@@ -1,0 +1,272 @@
+[
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nsensors/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/src -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NSENSORS.dir/Utils.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nsensors/src/Utils.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nsensors/src/Utils.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nsensors/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/src -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NSENSORS.dir/Camera.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nsensors/src/Camera.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nsensors/src/Camera.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nsensors/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/src -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NSENSORS.dir/OptiTrack.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nsensors/src/OptiTrack.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nsensors/src/OptiTrack.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nsensors/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/src -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NSENSORS.dir/Lidar2D.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nsensors/src/Lidar2D.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nsensors/src/Lidar2D.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nsensors/tst",
+  "command": "/usr/bin/c++  -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data/\\\" -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/src -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nsensors/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NSensorsUnitTests.dir/NSensorsUnitTests.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nsensors/tst/NSensorsUnitTests.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nsensors/tst/NSensorsUnitTests.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMAP.dir/GMap.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/src/GMap.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/src/GMap.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMAP.dir/FloorMap.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/src/FloorMap.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/src/FloorMap.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMAP.dir/Room.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/src/Room.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/src/Room.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMAP.dir/Lift.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/src/Lift.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/src/Lift.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMAP.dir/Object.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/src/Object.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/src/Object.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/RoomSegmentation.dir/RoomSegmentation.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/src/RoomSegmentation.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/src/RoomSegmentation.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/RoomSegmentation.dir/GMap.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/src/GMap.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/src/GMap.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/RoomSegmentation.dir/FloorMap.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/src/FloorMap.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/src/FloorMap.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/RoomSegmentation.dir/Room.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/src/Room.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/src/Room.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/RoomSegmentation.dir/Lift.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/src/Lift.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/src/Lift.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/RoomSegmentation.dir/Object.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/src/Object.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/src/Object.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmap/tst",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data/\\\" -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src -I/home/nickybones/Code/YouBotMCL/ncore/nmap/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmap/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMapUnitTests.dir/NMapUnitTests.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmap/tst/NMapUnitTests.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmap/tst/NMapUnitTests.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCL.dir/BeamEnd.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/src/BeamEnd.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/BeamEnd.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCL.dir/MixedFSR.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/src/MixedFSR.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/MixedFSR.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCL.dir/Particle.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/src/Particle.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/Particle.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCL.dir/SetStatistics.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/src/SetStatistics.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/SetStatistics.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCL.dir/Resampling.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/src/Resampling.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/Resampling.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCL.dir/PlaceRecognition.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/src/PlaceRecognition.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/PlaceRecognition.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCL.dir/ReNMCL.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/src/ReNMCL.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/ReNMCL.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCL.dir/NMCLFactory.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/src/NMCLFactory.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/NMCLFactory.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCL.dir/SemanticLikelihood.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/src/SemanticLikelihood.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/SemanticLikelihood.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCL.dir/SemanticVisibility.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/src/SemanticVisibility.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/SemanticVisibility.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCL.dir/ParticleFilter.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/src/ParticleFilter.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/ParticleFilter.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/tst",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data\\\" -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCLUnitTests.dir/NMCLUnitTests.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/tst/NMCLUnitTests.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/tst/NMCLUnitTests.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nmcl/tst",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data\\\" -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nmcl/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NMCLUnitTests.dir/Analysis.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nmcl/tst/Analysis.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nmcl/tst/Analysis.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NAPP.dir/imgui.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NAPP.dir/imgui_demo.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_demo.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_demo.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NAPP.dir/imgui_draw.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_draw.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_draw.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NAPP.dir/imgui_tables.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_tables.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_tables.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NAPP.dir/imgui_widgets.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_widgets.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NAPP.dir/imgui_impl_glfw.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_impl_glfw.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NAPP.dir/imgui_impl_opengl3.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_impl_opengl3.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data\\\" -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/Maphisto.dir/main.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/main.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/main.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data\\\" -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/Maphisto.dir/imgui.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data\\\" -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/Maphisto.dir/imgui_demo.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_demo.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_demo.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data\\\" -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/Maphisto.dir/imgui_draw.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_draw.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_draw.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data\\\" -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/Maphisto.dir/imgui_tables.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_tables.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_tables.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data\\\" -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/Maphisto.dir/imgui_widgets.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_widgets.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data\\\" -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/Maphisto.dir/imgui_impl_glfw.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_impl_glfw.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/napp/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data\\\" -I/home/nickybones/Code/YouBotMCL/ncore/napp/src -I/home/nickybones/Code/YouBotMCL/ncore/napp/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/napp/../nsensors/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/Maphisto.dir/imgui_impl_opengl3.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_impl_opengl3.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/napp/src/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/ndl/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/ndl/include -I/home/nickybones/Code/YouBotMCL/ncore/ndl/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/TextRecoFromFolder2.dir/TextRecoFromFolder2.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/ndl/src/TextRecoFromFolder2.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/ndl/src/TextRecoFromFolder2.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/ndl/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/ndl/include -I/home/nickybones/Code/YouBotMCL/ncore/ndl/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/TextRecoFromFolder2.dir/TextSpotting.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/ndl/src/TextSpotting.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/ndl/src/TextSpotting.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/ndl/src",
+  "command": "/usr/bin/c++   -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/ndl/include -I/home/nickybones/Code/YouBotMCL/ncore/ndl/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NDL.dir/TextSpotting.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/ndl/src/TextSpotting.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/ndl/src/TextSpotting.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/ndl/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/ndl/include -I/home/nickybones/Code/YouBotMCL/ncore/ndl/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/TextRecoFromFolder.dir/TextRecoFromFolder.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/ndl/src/TextRecoFromFolder.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/ndl/src/TextRecoFromFolder.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/ndl/src",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/ndl/include -I/home/nickybones/Code/YouBotMCL/ncore/ndl/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/TextRecoFromFolder.dir/TextSpotting.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/ndl/src/TextSpotting.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/ndl/src/TextSpotting.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/ndl/tst",
+  "command": "/usr/bin/c++  -DPROJECT_TEST_DATA_DIR=\\\"/home/nickybones/Code/YouBotMCL/ncore/../data\\\" -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src -I/home/nickybones/Code/YouBotMCL/ncore/ndl/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/ndl/include -I/home/nickybones/Code/YouBotMCL/ncore/ndl/../nlohmann_json/include -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NDLUnitTests.dir/NDLUnitTests.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/ndl/tst/NDLUnitTests.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/ndl/tst/NDLUnitTests.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nengine/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nengine/src -I/home/nickybones/Code/YouBotMCL/ncore/nengine/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nengine/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nlohmann_json/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../ndl/include -I/usr/include/python3.8  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NEGNINE.dir/NMCLEngine.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nengine/src/NMCLEngine.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nengine/src/NMCLEngine.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nengine/src",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/nickybones/Code/YouBotMCL/ncore/nengine/src -I/home/nickybones/Code/YouBotMCL/ncore/nengine/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nengine/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nlohmann_json/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../ndl/include -I/usr/include/python3.8  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NEGNINE.dir/DataFrameLoader.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nengine/src/DataFrameLoader.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nengine/src/DataFrameLoader.cpp"
+},
+{
+  "directory": "/home/nickybones/Code/YouBotMCL/ncore/build/nengine/tst",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/nickybones/Code/YouBotMCL/ncore/nengine/src -I/home/nickybones/Code/YouBotMCL/ncore/nengine/src/lib -I/home/nickybones/Code/YouBotMCL/ncore/nengine/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nsensors/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nmap/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nlohmann_json/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../nmcl/include -I/home/nickybones/Code/YouBotMCL/ncore/nengine/../ndl/include -I/usr/include/python3.8 -isystem /usr/local/include/opencv4  -std=c++11 -O3 -fopenmp -Wall  -fopenmp   -std=gnu++14 -o CMakeFiles/NEngineTests.dir/main.cpp.o -c /home/nickybones/Code/YouBotMCL/ncore/nengine/tst/main.cpp",
+  "file": "/home/nickybones/Code/YouBotMCL/ncore/nengine/tst/main.cpp"
+}
+]
