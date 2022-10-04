@@ -234,17 +234,3 @@ sensor_msgs::Image CVMat2ImgMsg(const cv::Mat& img, std_msgs::Header header, con
 }
 
 
-nmcl_msgs::Box CVRect2BoxMsg(const cv::Rect& rect)
-{
-    nmcl_msgs::Box box;
-    geometry_msgs::Pose2D br, tl;
-    br.x = rect.br().x;
-    br.y = rect.br().y;
-    tl.x = rect.tl().x;
-    tl.y = rect.tl().y;
-
-    box.top_left = tl;
-    box.bottom_right = br;
-
-    return box;
-}

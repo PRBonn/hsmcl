@@ -22,7 +22,6 @@
 #include <geometry_msgs/PoseStamped.h>
 #include "opencv2/opencv.hpp"
 #include <cv_bridge/cv_bridge.h>
-#include <nmcl_msgs/Box.h>
 
 
 Eigen::Vector3f OdomMsg2Pose2D(const nav_msgs::OdometryConstPtr& odom);
@@ -50,7 +49,6 @@ geometry_msgs::PoseWithCovarianceStamped Pred2PoseWithCov(Eigen::Vector3d pred, 
 
 sensor_msgs::Image CVMat2ImgMsg(const cv::Mat& img, std_msgs::Header header, const std::string& type);
 
-nmcl_msgs::Box CVRect2BoxMsg(const cv::Rect& rect);
 
 
 

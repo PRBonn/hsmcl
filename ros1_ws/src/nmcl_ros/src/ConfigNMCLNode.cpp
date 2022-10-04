@@ -37,7 +37,6 @@
 #include "NMCLFactory.h"
 #include "LidarData.h"
 #include "SemanticData.h"
-#include <nmcl_msgs/LidarScanMask.h>
 #include <nmcl_msgs/YoloArray.h>
 #include <nmcl_msgs/Yolo.h>
 #include <nmcl_msgs/YoloCombinedArray.h>
