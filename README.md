@@ -12,6 +12,9 @@ This repository contains the implementation of the following publication:
 ## Overview
 We provide a long-term localization solution and a semantic map format, for environments that undergo changes to their interior structure and detailed geometric maps are not available.
 
+A deminstration of our semantic-guided localization in a previously unseen environment 
+[![](http://img.youtube.com/vi/ikmiHHIv70s/0.jpg)](https://www.youtube.com/watch?v=ikmiHHIv70s "HSMCL")
+
 ### Abstract Semantic Maps
 We enrich the sparse floor plans with geometric, semantic and textual information. 
 
