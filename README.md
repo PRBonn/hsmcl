@@ -74,7 +74,7 @@ cd ../..
 catkin_make
 source devel/setup.bash
 ```
-If you encounter errors related to OpenCV versions, you can check [this](Docs/vision_opencv Issues.md).
+If you encounter errors related to OpenCV versions, you can check [this](https://github.com/PRBonn/hsmcl/blob/master/Docs/vision_opencv%20Issues.md).
 
 ## Semantic Map Editor
 You can our GUI app [MAPhisto](https://github.com/FullMetalNicky/Maphisto) for editing semantic maps. 
