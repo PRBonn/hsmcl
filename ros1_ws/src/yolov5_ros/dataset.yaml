@@ -1,0 +1,8 @@
+train: data/images/training/
+val: data/images/validation/
+
+# number of classes
+nc: 14
+
+# class names
+names: ['sink', 'door', 'oven', 'whiteboard', 'table', 'cardboard', 'plant', 'drawers', 'sofa', 'storage', 'chair', 'extinguisher', 'people', 'desk']

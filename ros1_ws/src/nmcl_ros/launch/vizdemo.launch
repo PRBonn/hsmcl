@@ -1,0 +1,73 @@
+<launch>
+
+<arg name="sem" value="true"/>
+<arg name="roomseg" value="true"/>
+
+<arg name="dataFolder" value="/home/nickybones/Code/hsmcl/ncore/data/floor/JMap/"/>
+<arg name="mapName" value="JMap"/>
+<param name="mapName" value="$(arg mapName)"/>
+<param name="dataFolder" value="$(arg dataFolder)"/>
+<param name="roomTopic" value="/room"/>
+<param name="roomCategoryTopic" value="/roomCategoryTopic"/>
+  <param name="markerTopic" value="markerTopic"/>
+
+  <param name="dataset" value="/home/nickybones/Code/yolov5/dataset.yaml"/>
+
+<node name="map_server" pkg="map_server" type="map_server" args="$(arg dataFolder)$(arg mapName).yaml" output="screen"/>
+ <node pkg="rviz" type="rviz" name="rviz" args="-d $(find nmcl_ros)/rviz/DemoMCL.rviz"/> 
+
+<group if="$(arg sem)">
+
+<node pkg="yolov5_ros" type="YoloV5Node.py" name="YoloV5Node0" output="screen">
+  <rosparam param="camIDS">[0, 1, 2, 3]</rosparam>
+  <rosparam param="cameraImgTopics">["/camera0/color/image_raw", "/camera1/color/image_raw", "/camera2/color/image_raw", "/camera3/color/image_raw"]</rosparam>
+   <param name="weights" value="$(find yolov5_ros)/models/2022_05_09.pt"/>
+ <param name="conf_thres" value="0.4"/>
+  <param name="imgsize" value="640"/>
+  </node>
+
+   <node pkg="nmcl_ros" type="SemanticMapNode.py" name="SemanticMapNode0" output="screen"/>
+
+
+
+  <group if="$(arg roomseg)">
+   <param name="picklePath" value="$(find yolov5_ros)/models/classification.pickle"/>
+    <node pkg="yolov5_ros" type="RoomClassifierNode.py" name="RoomClassifierNode0" output="screen"/>
+      <node pkg="nmcl_ros" type="RoomCategoryVizNode.py" name="RoomCategoryVizNode" output="screen"/> 
+
+  </group>
+</group>
+
+<group unless="$(arg sem)">
+  <node pkg="rviz" type="rviz" name="rviz" args="-d $(find nmcl_ros)/rviz/Demo.rviz"/> 
+  <param name="nmclconfig" value="nmcl.config"/>
+  <param name="scanTopic" value="/ScanMergeNode/scan_merged"/>
+  <param name="odomTopic" value="/odom"/>
+  <param name="mapTopic" value="map"/>
+  <param name="textTopic" value="/text"/>
+  <param name="dsFactor" value="10"/>
+  <param name="triggerDist" value="0.1"/>
+  <param name="triggerAngle" value="0.03"/>
+  <rosparam param="odomNoise">[0.15, 0.15, 0.15]</rosparam>
+  <rosparam param="odomWeights">[1.0]</rosparam>
+  <param name="maskTopic" value="masked_scan"/>
+  <param name="poseTopic" value="/NMCLPose"/>
+  <param name="baseLinkTF" value="base_link"/>
+  <param name="configFolder" value="$(find nmcl_ros)/config/480x640/"/>
+  <param name="yoloTopic" value="/yolov5"/>
+  <param name="roomTopic" value="/room"/>
+  <param name="gtTopic" value="/GT"/>
+
+  <node pkg="nmcl_ros" type="ScanMergeNode" name="ScanMergeNode" output="screen">
+    <param name="configFolder" value="$(find nmcl_ros)/config/"/>
+    <param name="scanFrontTopic" value="/scan_front"/>
+    <param name="scanRearTopic" value="/scan_rear"/>
+    <param name="baseLinkTF" value="base_link"/>
+  </node>
+
+  <node pkg="nmcl_ros" type="ConfigNMCLNode" name="ConfigNMCLNode" output="screen"/>
+
+</group>
+
+
+</launch>
