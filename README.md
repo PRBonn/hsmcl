@@ -64,7 +64,7 @@ To see everything is built correctly, run the tests from the build directory
 ```bash
 ./bin/NMCLUnitTests
 ```
-To integrate OpenCV 4.5 to ROS, you must download [vision_opencv](https://github.com/ros-perception/vision_opencv) to the ros1_ws/src folder, and then build the workspace
+To integrate OpenCV 4.5 to ROS, you must download [vision_opencv](https://github.com/ros-perception/vision_opencv) to the `ros1_ws/src` folder, and then build the workspace
 ```bash
 cd ros1_ws/src
 git clone https://github.com/ros-perception/vision_opencv.git
@@ -75,6 +75,9 @@ catkin_make
 source devel/setup.bash
 ```
 If you encounter errors related to OpenCV versions, you can check [this](https://github.com/PRBonn/hsmcl/blob/master/Docs/vision_opencv%20Issues.md).
+
+You can download our trained model for [object detection](https://www.ipb.uni-bonn.de/html/projects/hsmcl/2022_05_09.pt) and data for [room classification](https://www.ipb.uni-bonn.de/html/projects/hsmcl/classification.pickle). Please place them in `ros1_ws/src/yolov5_ros/models/`.
+
 
 ## Semantic Map Editor
 You can our GUI app [MAPhisto](https://github.com/FullMetalNicky/Maphisto) for editing semantic maps. 
