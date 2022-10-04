@@ -97,7 +97,7 @@ Requires as input 3 topics, LaserScan from the front lidar, LaserScan from the r
 ```bash
 roslaunch nmcl_ros confignmcl.launch dataFolder:="path/to/data/folder/"
 ```
-
+The data folder used for the experiments can be found in `ncore/data/floor/JMap`.
 The data folder should have the following items:
 * nmcl.config - defines algorithm parameters, like sampling stratgy, motion/observation model, particle number, etc.  
 * floor.config - defines where the map resources are and semantic/textual information about the map
