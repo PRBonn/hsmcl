@@ -21,11 +21,13 @@ We enrich the sparse floor plans with geometric, semantic and textual informatio
 ![semmap](Docs/SemMap.png)
 
 ### Object Detection 
-We use [YOLOv5](https://github.com/ultralytics/yolov5) for object detection, but in theory it can be replaced by any other model that provides our algorithm with class prediction, bounding boxes and a confidence score. 
+We use [YOLOv5](https://github.com/ultralytics/yolov5) for object detection, but in theory it can be replaced by any other model that provides our algorithm with class prediction, bounding boxes and a confidence score. You can download our trained model [here](https://www.ipb.uni-bonn.de/html/projects/hsmcl/2022_05_09.pt).
 ![semmap](Docs/YOLOExample.png)
+
 
 ### Room Category Classification
 We consider heirarchical semantic information, by building a higher level of semantic understanding based on the object detection results. We train a KNN classifier to infer the room category based on the objects detected in the scene. The format for the classification.pickle is a dataframe with 'samples' column which stores a one-hot-encoded vector corresponding to the semantic classes of the detected objects, and a 'predictions' column with an index corresponding to the correct room category.
+The training data for the classifier can be downloaded [here](https://www.ipb.uni-bonn.de/html/projects/hsmcl/classification.pickle).
 
 
 ## Installation
