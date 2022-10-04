@@ -2,9 +2,9 @@
 This repository contains the implementation of the following publication:
 ```bibtex
 @article{zimmerman2022iros,
-  author = {Zimmerman, Nicky and Wiesmann, Louis and Guadagnino, Tiziano and Läbe, Thomas and Behley, Jens and Stachniss, Cyrill},
-  title = {{Robust Onboard Localization in Changing Environments Exploiting Text Spotting}},
-  journal = iros,
+  author = {Zimmerman, Nicky and and Guadagnino, Tiziano and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
+  title = {{Long-Term Localization using Semantic Cues in Floor Plan Maps}},
+  journal = arxiv,
   year = {2022}
 }
 ```
