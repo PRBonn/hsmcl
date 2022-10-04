@@ -53,9 +53,9 @@ sudo apt-get install git-lfs
 
 First you need to build the ncore library since I don't have a global CMake yet. Tough life. <br/>
 ```bash
-git clone https://gitlab.ipb.uni-bonn.de/nicky.zimmerman/OmniNMCL.git
+git clone https://github.com/PRBonn/hsmcl.git
 git lfs pull
-cd OmniNMCL/ncore
+cd hsmcl/ncore
 mkdir build && cd build
 cmake .. -DBUILD_TESTING=1 
 make -j12
