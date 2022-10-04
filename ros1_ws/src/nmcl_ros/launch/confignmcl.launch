@@ -2,7 +2,7 @@
 
 <!-- Localization engine -->
   <arg name="dataFolder"/>
-  <arg name="text" value="true"/>
+  <arg name="text" value="false"/>
 <arg name="sem" value="true"/>
 <arg name="roomseg" value="true"/>
 
