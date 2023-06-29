@@ -1,11 +1,14 @@
 # Long-Term Localization using Semantic Cues in Floor Plan Maps
 This repository contains the implementation of the following [publication](https://arxiv.org/abs/2210.01456):
 ```bibtex
-@article{zimmerman2022arxiv,
-  author = {Zimmerman, Nicky and and Guadagnino, Tiziano and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
-  title = {{Long-Term Localization using Semantic Cues in Floor Plan Maps}},
-  journal = arxiv,
-  year = {2022}
+@article{zimmerman2023ral,
+  author  = {Zimmerman, Nicky and Guadagnino, Tiziano and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
+  journal = ral,
+  title   = {{Long-Term Localization Using Semantic Cues in Floor Plan Maps}},
+  year    = {2023},
+  volume  = {8},
+  number  = {1},
+  pages   = {176-183}
 }
 ```
 
