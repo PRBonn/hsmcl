@@ -3,7 +3,7 @@ This repository contains the implementation of the following [publication](https
 ```bibtex
 @article{zimmerman2023ral,
   author  = {Zimmerman, Nicky and Guadagnino, Tiziano and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
-  journal = ral,
+  journal = {IEEE Robotics and Automation Letters (RA-L)},
   title   = {{Long-Term Localization Using Semantic Cues in Floor Plan Maps}},
   year    = {2023},
   volume  = {8},
